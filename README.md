@@ -35,7 +35,7 @@
 
 ## Prototipo en dibujo
 
-![Prototipo]()
+![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Boceto1%20Image%202023-09-29%20at%2010.39.01%20AM.jpeg)
 
 
 ## Comunicacion
