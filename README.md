@@ -3,14 +3,14 @@
 
 ## Nombre del personaje 
 
--Campesino con Cesto de Uvas 
+-Elefante (de los Reyes Magos)
 
 ##  Nombre Integrantes Equipo
 
 |Nombre | Apellido Paterno | Apellido Materno |
 |-|-|-|
-|Fredy Alonso|Esparza|Campuzano|
-|Alan Omar|Venegas|Cadena|
+|Francisco|Torres|Rojas|
+|Brayan Gael|García|González|
 
 ## Materiales a utilizar
 
@@ -36,7 +36,6 @@
 ## Prototipo en dibujo
 
 ![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Boceto1%20Image%202023-09-29%20at%2010.39.01%20AM.jpeg)
-
 
 ## Comunicacion
 
