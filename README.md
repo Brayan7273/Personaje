@@ -17,10 +17,18 @@
 
 |Nom Componente | Descripcion | Cantidad| Precio|
 |-|-|-|-|
-|ESP32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth||$140.00|
+|ESP32|Microcontrolador con 30 pines con comunicacion WIFI y Bluetooth|1|$140.00|
 |Cable dupont|Cables para conexion de prototipos de pruebas|50|$60.00|
 |Sensor Pir Hc-sr501|Detector De Movimiento|2|$55.00|
-|Led|Se utiliza un LED como indicador visual.|10|$70.00|
+|Mini protoboard |Conexion de los componentes|1|$59|
+|Tarjeta de control para motor a pasos |Control de motor|1|$39|
+|Motor a pasos de 4 líneas de control, 5 Vcc |Motor|1|$59|
+|Resistencia de carbón |Recistencia|15|$2|
+
+
+
+
+
 
 
 
