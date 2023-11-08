@@ -44,7 +44,7 @@
 
 ## Prototipo en dibujo
 
-![Prototipo](WhatsApp Image 2023-11-08 at 12.59.37 PM (1).jpeg)
+![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/WhatsApp%20Image%202023-11-08%20at%2012.59.37%20PM%20(1).jpeg)
 
 ## Comunicacion
 
