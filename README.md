@@ -23,7 +23,7 @@
 |Mini protoboard |Conexion de los componentes|1|$59|
 |Tarjeta de control para motor a pasos |Control de motor|1|$39|
 |Motor a pasos de 4 líneas de control, 5 Vcc |Motor|1|$59|
-|Resistencia de carbón |Recistencia|15|$2|
+|Resistencia de carbón |Recistencia|18|$2|
 |LED de 5 mm RGB |Iluminacion|6|$5|
 
 
