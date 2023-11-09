@@ -25,6 +25,7 @@
 |Motor a pasos de 4 líneas de control, 5 Vcc |Motor|1|$59|
 |Resistencia de carbón |Recistencia|18|$2|
 |LED de 5 mm RGB |Iluminacion|6|$5|
+|Alambre |Movimiento|1|$5|
 
 
 
