@@ -47,7 +47,7 @@
 
 ## Prototipo en dibujo 2
 
-![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Bocetos/Boceto%201.jpeg)
+![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Bocetos/Boceto%202.jpeg)
 ## Comunicacion
 
 
