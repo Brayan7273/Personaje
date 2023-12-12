@@ -49,8 +49,11 @@
 
 ![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Bocetos/Boceto%202.jpeg)
 ## Comunicacion
-La comunixacion esta dada entre la placa ESP32 y Node-red mediante una red WIFI, se deben hacer las configuraciones necesarias en el codigo para colocar el topico al que deseamos conectarnos y ademas de incluir la red y la contraseña si cuenta con alguna, pero lo mas importante es el broker ya que ahi iran dirigidas nuestras solicitudes
+La comunixacion esta dada entre la placa ESP32 y Node-red mediante una red WIFI, se deben hacer las configuraciones necesarias en el codigo para colocar el topico al que deseamos conectarnos y ademas de incluir la red y la contraseña si cuenta con alguna, pero lo mas importante es el broker ya que ahi iran dirigidas nuestras solicitudes, estas solicitudes de mensajes entran el codigo y mediante condiciones se activan ciertos movimientos
+
+Ademas la interfaz de Node-red es bastante simple y de facil manipulacion
 
 ## Arquitectura 
+
 
 ## Base de datos
