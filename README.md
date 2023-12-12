@@ -63,9 +63,11 @@ Ademas la interfaz de Node-red es bastante simple y de facil manipulacion
 
 ## video demostracion funcionamiento
 
-## Fotos elaboracion de codigo
 
-## Fotos elaboracion de personaje
+## Link Fotos elaboracion de codigo
+https://github.com/Brayan7273/Personaje/tree/main/Fotos%20de%20elaboracion%20de%20los%20codigos
+
+## Link Fotos elaboracion de personaje
 
 
 
