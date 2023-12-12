@@ -41,10 +41,13 @@
 |SSD1602|1.8.1|Software Libre|
 |MicroPhyton|1.10|Software Libre|
 
-## Prototipo en dibujo
+## Prototipo en dibujo 1
 
 ![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Bocetos/Boceto%201.jpeg)
 
+## Prototipo en dibujo 2
+
+![Prototipo](https://github.com/Brayan7273/Personaje/blob/main/Bocetos/Boceto%201.jpeg)
 ## Comunicacion
 
 
