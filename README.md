@@ -23,9 +23,14 @@
 |Mini protoboard |Conexion de los componentes|1|$59|
 |Tarjeta de control para motor a pasos |Control de motor|1|$39|
 |Motor a pasos de 4 líneas de control, 5 Vcc |Motor|1|$59|
-|Resistencia de carbón |Recistencia|18|$2|
-|LED de 5 mm RGB |Iluminacion|6|$5|
-|Alambre |Movimiento|1|$5|
+|Servo motor |Proporciona movimiento|1|$2|
+|LEDs |Iluminacion|6|$2|
+|Cajas de carton|Construccion|4|$10|
+|Triplay |Base para el personaje y pared|2|$50|
+|Cinda de aislar |Une los componentes y los materiales|1|$50|
+|Cinda diurex |Une los componentes y los materiales|1|$50|
+|Pintura gris |Color al personaje|1|$40|
+|Hilo |Movimiento|1|$10|
 
 
 
