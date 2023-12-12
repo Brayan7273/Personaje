@@ -60,14 +60,28 @@ Ademas la interfaz de Node-red es bastante simple y de facil manipulacion
 
 
 ## Base de datos
+![Base de datos](https://github.com/Brayan7273/Personaje/blob/main/Base%20de%20datos/Base%20de%20datos.jpeg)
+
+
+## Codigos y librerias
+https://github.com/Brayan7273/Personaje/tree/main/Codigos
+
+## Flujo de node-red
+https://github.com/Brayan7273/Personaje/blob/main/Node-red%20Elefante.json
 
 ## video demostracion funcionamiento
-
+Se tiene que descargar para visualizar 
+https://github.com/Brayan7273/Personaje/blob/main/Video%20desmostracion%20funcionamiento.mp4
 
 ## Link Fotos elaboracion de codigo
 https://github.com/Brayan7273/Personaje/tree/main/Fotos%20de%20elaboracion%20de%20los%20codigos
 
 ## Link Fotos elaboracion de personaje
+
+## Resultado Final
+https://github.com/Brayan7273/Personaje/tree/main/Resulatado%20final
+
+
 
 
 
