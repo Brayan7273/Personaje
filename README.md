@@ -54,6 +54,12 @@ La comunixacion esta dada entre la placa ESP32 y Node-red mediante una red WIFI,
 Ademas la interfaz de Node-red es bastante simple y de facil manipulacion
 
 ## Arquitectura 
+![Arquitectura](https://github.com/Brayan7273/Personaje/blob/main/Arquitectura/Arquitectura%201.jpeg)
+
+![Arquitectura](https://github.com/Brayan7273/Personaje/blob/main/Arquitectura/Arquitectura%202.jpeg)
+
+
+
 
 
 ## Base de datos
