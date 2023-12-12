@@ -59,7 +59,13 @@ Ademas la interfaz de Node-red es bastante simple y de facil manipulacion
 ![Arquitectura](https://github.com/Brayan7273/Personaje/blob/main/Arquitectura/Arquitectura%202.jpeg)
 
 
-
-
-
 ## Base de datos
+
+## video demostracion funcionamiento
+
+## Fotos elaboracion de codigo
+
+## Fotos elaboracion de personaje
+
+
+
