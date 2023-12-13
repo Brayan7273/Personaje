@@ -77,7 +77,7 @@ https://github.com/Brayan7273/Personaje/blob/main/Video%20desmostracion%20funcio
 https://github.com/Brayan7273/Personaje/tree/main/Fotos%20de%20elaboracion%20de%20los%20codigos
 
 ## Link Fotos elaboracion de personaje
-
+https://github.com/Brayan7273/Personaje/tree/main/Elaboracion%20de%20personaje
 ## Resultado Final
 https://github.com/Brayan7273/Personaje/tree/main/Resulatado%20final
 
