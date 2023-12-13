@@ -30,7 +30,10 @@
 |Cinda de aislar |Une los componentes y los materiales|1|$50|
 |Cinda diurex |Une los componentes y los materiales|1|$50|
 |Pintura gris |Color al personaje|1|$40|
+|Pegamento|Adhesivo para ensamblar componentes y materiales|2|$22.00|
 |Hilo |Movimiento|1|$10|
+|Otros Materiales|Materiales para tema de decoracion|5|$50.00|
+
 
 
 
@@ -40,6 +43,12 @@
 |Thonny|4.2.1|Software Libre|
 |SSD1602|1.8.1|Software Libre|
 |MicroPhyton|1.10|Software Libre|
+|SQLite|3.43.1|Software Libre|
+|dcmotor||Libreria|
+|stepper||Libreria|
+|ssd1306||Libreria|
+|hcsr04||Libreria|
+
 
 ## Prototipo en dibujo 1
 
